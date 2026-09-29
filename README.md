@@ -347,16 +347,6 @@ CodeCamp
 
 ---
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif213-umt&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 <h2 align="center">🌱 MY GOAL</h2>
 
 <div align="center">
