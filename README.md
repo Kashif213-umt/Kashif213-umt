@@ -331,22 +331,6 @@ CodeCamp
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kashif213-umt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif213-umt&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif213-umt&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <h2 align="center">🌱 MY GOAL</h2>
 
 <div align="center">
