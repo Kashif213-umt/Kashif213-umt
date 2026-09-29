@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Kashif Fida
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kashif+Fida+%F0%9F%91%8B;AI+Developer+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;Building+AI+Projects+That+Solve+Real+Problems" />
 
-### AI Developer | Machine Learning | Deep Learning | Computer Vision
+<br>
 
 <p>
   <a href="https://kashif213-umt.github.io/AI_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kashif-fida-35bb7b274/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,35 +16,129 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Kashif213-umt&label=Profile%20Views&color=6C63FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Kashif213-umt&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
 </div>
+
+<br>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **BS Artificial Intelligence student** passionate about building practical AI solutions and solving real-world problems through technology.
+<img align="right" width="280" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme/master/gifs/ai.gif">
 
-My main areas of interest are **Machine Learning, Deep Learning, and Computer Vision**. I enjoy working on hands-on projects, experimenting with AI models, and continuously improving my technical skills.
+I'm a **BS Artificial Intelligence student** focused on building practical AI solutions.
 
-Currently, I'm focusing on **Computer Vision, Object Detection, YOLO, PyTorch, OpenCV, and Generative AI**.
+My main interests include:
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* 🎯 Object Detection
+* ✨ Generative AI
+
+I enjoy learning by building real projects and experimenting with different AI technologies.
+
+Currently, I'm strengthening my skills in **Computer Vision, YOLO, PyTorch, OpenCV and Generative AI**.
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,git,github,vscode" />
+### 👨‍💻 Programming
 
-<br><br>
+<table>
+<tr>
+<td align="center" width="140">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-4B91FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-8A63D2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-374151?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+<br>
+
+<b>Python</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+
+<br>
+
+<b>MySQL</b>
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI & Machine Learning
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+<br>
+<b>PyTorch</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+<br>
+<b>TensorFlow</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
+<br>
+<b>OpenCV</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" height="28"/>
+<br>
+<b>YOLO</b>
+</td>
+
+</tr>
+</table>
+
+### 🔧 Tools & Development
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<br>
+<b>Git</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=for-the-badge" height="28"/>
+<br>
+<b>Generative AI</b>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -52,108 +146,147 @@ Currently, I'm focusing on **Computer Vision, Object Detection, YOLO, PyTorch, O
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ✋ Air Writing AI
+<h3 align="center">✋ Air Writing AI</h3>
 
-A Computer Vision project that enables interaction through hand movements and recognizes handwritten digits.
+<p align="center">
+A Computer Vision application that enables interaction through hand movements and recognizes handwritten digits.
+</p>
 
-**Technologies**
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
 
-`Python` `OpenCV` `MediaPipe` `PyTorch`
-
+<p align="center">
 <a href="https://github.com/Kashif213-umt/Air-Writing-AI">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🦺 PPE Detection System
+<h3 align="center">🦺 PPE Detection System</h3>
 
-A YOLO-based Computer Vision system designed to detect PPE equipment and identify missing safety equipment.
+<p align="center">
+A YOLO-based Computer Vision system for detecting PPE and identifying missing safety equipment.
+</p>
 
-**Technologies**
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
 
-`Python` `YOLO` `PyTorch` `Computer Vision`
-
+<p align="center">
 <a href="https://github.com/Kashif213-umt/PPE-Detection-System">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 💬 ML Assistant Chatbot
+<h3 align="center">💬 ML Assistant Chatbot</h3>
 
+<p align="center">
 An AI chatbot built with Streamlit and Hugging Face inference for interactive question answering.
+</p>
 
-**Technologies**
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLM-6C63FF?style=flat-square"/>
+</p>
 
-`Python` `Streamlit` `Hugging Face` `LLM`
-
+<p align="center">
 <a href="https://github.com/Kashif213-umt/ml-assistant-chatbot">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Image Classification
+<h3 align="center">🧠 Image Classification</h3>
 
+<p align="center">
 A deep learning project implementing a neural network for image classification.
+</p>
 
-**Technologies**
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-6C63FF?style=flat-square"/>
+</p>
 
-`Python` `PyTorch` `Neural Networks`
-
+<p align="center">
 <a href="https://github.com/Kashif213-umt/image-classification-neural-network">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### AI / Computer Vision Intern
 
 **Autogenics Automation — Lahore**
 
-Working on practical Computer Vision and AI projects involving:
+Working on practical AI and Computer Vision projects involving:
 
-* Object detection and safety monitoring
-* PPE detection systems
-* Dataset preparation and image annotation
-* YOLO model training
-* Computer Vision workflows
-* AI-based industrial safety solutions
+`Object Detection` `PPE Detection` `Dataset Preparation` `Image Annotation` `YOLO` `Model Training`
+
+My work includes preparing datasets, annotating images, working with object detection workflows, and learning how AI models are developed for real-world industrial safety applications.
 
 ---
 
-## 📚 Certifications & Learning
-
-🎓 **Udacity — AI Programming with Python**
-
-☁️ **Udacity — AWS Machine Learning Fundamentals**
-
-👁️ **CodeCamp — OpenCV Course**
-
----
-
-## 🎯 Current Focus
+# 📚 Certifications & Learning
 
 <div align="center">
+
+| Certificate / Course                 |   Platform   |
+| :----------------------------------- | :----------: |
+| 🎓 AI Programming with Python        |  **Udacity** |
+| ☁️ AWS Machine Learning Fundamentals |  **Udacity** |
+| 👁️ OpenCV Course                    | **CodeCamp** |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=4B91FF&center=true&vCenter=true&width=700&lines=Computer+Vision;Object+Detection;YOLO;PyTorch;OpenCV;Generative+AI" />
+
+<br><br>
 
 ```text
 Artificial Intelligence
@@ -167,29 +300,19 @@ Computer Vision
 Real-World AI Applications
 ```
 
-**Currently Exploring**
-
-`Computer Vision` • `YOLO` • `PyTorch` • `OpenCV` • `Generative AI`
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashif213-umt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kashif213-umt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif213-umt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif213-umt&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif213-umt&theme=tokyonight&hide_border=true" />
 
@@ -197,32 +320,36 @@ Real-World AI Applications
 
 ---
 
-## 🌱 My Goal
+# 📈 Contribution Graph
 
-I'm working toward becoming an **AI / Computer Vision Engineer** by developing practical projects, strengthening my machine learning fundamentals, and gaining real-world industry experience.
+<div align="center">
 
-I believe in learning by building and continuously turning new ideas into working AI applications.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif213-umt&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌱 My Goal
+
+My goal is to become an **AI / Computer Vision Engineer** by continuously building practical projects, strengthening my machine learning fundamentals, and gaining real-world industry experience.
+
+I believe in **learning by building** and turning ideas into useful AI applications.
 
 ---
 
 <div align="center">
 
-## 🤖 Let's Build Something Intelligent
-
-<a href="https://kashif213-umt.github.io/AI_Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/kashif-fida-35bb7b274/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Kashif213-umt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Intelligent+%F0%9F%A4%96" />
 
 <br><br>
 
-⭐ Thanks for visiting my profile!
+<a href="https://kashif213-umt.github.io/AI_Portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kashif-fida-35bb7b274/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
